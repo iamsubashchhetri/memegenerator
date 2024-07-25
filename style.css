@@ -45,6 +45,8 @@ h3{
 
     display: block;
     margin: 3 auto;
+    border: solid rgb(207, 216, 42);
+    border-width: 5px;
 }
 
 .buttonClick{
